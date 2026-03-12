@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center">Je suis un étudiant en Ingénierie Réseau et Système en apprentissage</h3>
 
 - 📫 How to reach me **aminearoug@hotmail.fr**
 
